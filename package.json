@@ -1,0 +1,13 @@
+{
+  "name": "apna-advantage",
+  "version": "1.0.0",
+  "description": "Apna Advantage - India's Top Online Programs Portal (MERN Stack)",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": ["mern", "apna", "advantage", "education", "colleges"],
+  "author": "",
+  "license": "ISC"
+}

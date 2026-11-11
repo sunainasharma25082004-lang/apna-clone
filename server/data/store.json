@@ -1,0 +1,2293 @@
+{
+  "colleges": [
+    {
+      "_id": "col_1794302846169_xqwp3",
+      "name": "Lovely Professional University",
+      "slug": "lovely-professional-university",
+      "shortName": "LPU Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A++",
+      "nirfRank": 38,
+      "rating": 4.8,
+      "reviewCount": 3240,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.5 Lakh",
+      "startingFeeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "BA",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Punjab, India",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "WES Recognised",
+        "NIRF Ranked #38"
+      ],
+      "features": [
+        "Live Interactive Sessions",
+        "Placement Support 1000+ Recruiters",
+        "Zero-interest EMI options"
+      ],
+      "categoryTags": [
+        "students-top-choice",
+        "top-nirf-ranked",
+        "assured-programs"
+      ],
+      "createdAt": "2026-11-10T09:27:26.171Z"
+    },
+    {
+      "_id": "col_1794302846179_8d4vh",
+      "name": "Amity University",
+      "slug": "amity-university",
+      "shortName": "Amity Online",
+      "logo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 35,
+      "rating": 4.9,
+      "reviewCount": 4500,
+      "feesLevel": "₹ ₹ ₹ ₹",
+      "startingFee": "1.99 Lakh",
+      "startingFeeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "BA",
+        "MBA",
+        "MCA",
+        "M.Sc"
+      ],
+      "location": "Noida, UP",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "WASC USA",
+        "QS World Ranked"
+      ],
+      "features": [
+        "Global Faculty",
+        "Industry Projects with MNCs",
+        "Global Alumni Network"
+      ],
+      "categoryTags": [
+        "students-top-choice",
+        "top-nirf-ranked",
+        "assured-programs"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_ragfw",
+      "name": "Parul University",
+      "slug": "parul-university",
+      "shortName": "Parul Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A++",
+      "nirfRank": 52,
+      "rating": 4.7,
+      "reviewCount": 2100,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.35 Lakh",
+      "startingFeeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "BA",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Vadodara, Gujarat",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "NAAC A++"
+      ],
+      "features": [
+        "Practical oriented curriculum",
+        "Industry Mentors",
+        "Dedicated Placement Cell"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_qg0wn",
+      "name": "Chandigarh University",
+      "slug": "chandigarh-university",
+      "shortName": "CU Online",
+      "logo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 27,
+      "rating": 4.8,
+      "reviewCount": 3900,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.85 Lakh",
+      "startingFeeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "BA",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Mohali, Punjab",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "QS Asia Ranked"
+      ],
+      "features": [
+        "Harvard Business Publishing cases",
+        "100% Placement assistance",
+        "Flexible exam slots"
+      ],
+      "categoryTags": [
+        "top-nirf-ranked",
+        "assured-programs"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_seapg",
+      "name": "Bharathidasan University",
+      "slug": "bharathidasan-university",
+      "shortName": "BDU Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 41,
+      "rating": 4.6,
+      "reviewCount": 1600,
+      "feesLevel": "₹ ₹",
+      "startingFee": "₹90,798",
+      "startingFeeNum": 90798,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BA",
+        "B.COM",
+        "MBA",
+        "MA"
+      ],
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "approvals": [
+        "UGC-DEB",
+        "State Govt University",
+        "NAAC A+"
+      ],
+      "features": [
+        "Affordable quality degree",
+        "Govt certified degree",
+        "Self-paced learning portal"
+      ],
+      "categoryTags": [
+        "top-nirf-ranked",
+        "best-budget"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_7no97",
+      "name": "Sharda University",
+      "slug": "sharda-university",
+      "shortName": "Sharda Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 86,
+      "rating": 4.7,
+      "reviewCount": 1850,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.35 Lakh",
+      "startingFeeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Greater Noida, UP",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE"
+      ],
+      "features": [
+        "Global immersion opportunities",
+        "Industry-led Masterclasses",
+        "Career accelerator lab"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_qy7u1",
+      "name": "Dr. DY Patil Vidyapeeth",
+      "slug": "dr-dy-patil-vidyapeeth",
+      "shortName": "DPU Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A++",
+      "nirfRank": 44,
+      "rating": 4.8,
+      "reviewCount": 2450,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.45 Lakh",
+      "startingFeeNum": 145000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "MBA",
+        "B.COM"
+      ],
+      "location": "Pune, Maharashtra",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "NAAC A++"
+      ],
+      "features": [
+        "Leadership Development Program",
+        "e-Library Access",
+        "1-on-1 Academic Tutoring"
+      ],
+      "categoryTags": [
+        "students-top-choice",
+        "assured-programs"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_j64mz",
+      "name": "Jain University",
+      "slug": "jain-university",
+      "shortName": "Jain Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A++",
+      "nirfRank": 65,
+      "rating": 4.8,
+      "reviewCount": 2900,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.5 Lakh",
+      "startingFeeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Bangalore, Karnataka",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "NAAC A++"
+      ],
+      "features": [
+        "70+ electives and specializations",
+        "Connect to Bangalore tech ecosystem",
+        "LinkedIn Learning Certifications included"
+      ],
+      "categoryTags": [
+        "assured-programs",
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_3t7ne",
+      "name": "O.P. Jindal Global University",
+      "slug": "op-jindal-global-university",
+      "shortName": "JGU Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A",
+      "nirfRank": 1,
+      "rating": 4.9,
+      "reviewCount": 1400,
+      "feesLevel": "₹ ₹ ₹ ₹",
+      "startingFee": "2.25 Lakh",
+      "startingFeeNum": 225000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "MBA",
+        "BA"
+      ],
+      "location": "Sonipat, Haryana",
+      "approvals": [
+        "Institution of Eminence",
+        "UGC-DEB",
+        "QS #1 Private Univ in India"
+      ],
+      "features": [
+        "World-class Ivy League-trained faculty",
+        "Prestigious alumni network",
+        "Executive mentorship"
+      ],
+      "categoryTags": [
+        "top-nirf-ranked"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_90pvm",
+      "name": "UPES Online",
+      "slug": "upes-online",
+      "shortName": "UPES Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A",
+      "nirfRank": 46,
+      "rating": 4.7,
+      "reviewCount": 2200,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.5 Lakh",
+      "startingFeeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Dehradun, Uttarakhand",
+      "approvals": [
+        "UGC-DEB",
+        "NAAC A",
+        "QS 5 Star Rating"
+      ],
+      "features": [
+        "Specialization in Oil, Gas, Logistics & Tech",
+        "Coursera campus license included",
+        "Career booster masterclasses"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_cjwgr",
+      "name": "Shoolini University Online",
+      "slug": "shoolini-university-online",
+      "shortName": "Shoolini Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 70,
+      "rating": 4.8,
+      "reviewCount": 1300,
+      "feesLevel": "₹ ₹",
+      "startingFee": "₹90,000",
+      "startingFeeNum": 90000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Solan, Himachal Pradesh",
+      "approvals": [
+        "UGC-DEB",
+        "THE World University Rankings #1 in India for Citations"
+      ],
+      "features": [
+        "Pay after placement option",
+        "Personalized mentor",
+        "Stanford inspired syllabus"
+      ],
+      "categoryTags": [
+        "best-budget"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_veym4",
+      "name": "Vignan University",
+      "slug": "vignan-university",
+      "shortName": "Vignan Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 75,
+      "rating": 4.7,
+      "reviewCount": 1100,
+      "feesLevel": "₹ ₹",
+      "startingFee": "1.08 Lakh",
+      "startingFeeNum": 108000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "MBA",
+        "MCA"
+      ],
+      "location": "Guntur, Andhra Pradesh",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE",
+        "NAAC A+"
+      ],
+      "features": [
+        "Budget-friendly fees with EMI",
+        "Live doubt clearing sessions",
+        "Mobile-friendly app"
+      ],
+      "categoryTags": [
+        "best-budget"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_jco5y",
+      "name": "Yenepoya University Online",
+      "slug": "yenepoya-university-online",
+      "shortName": "Yenepoya Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 85,
+      "rating": 4.6,
+      "reviewCount": 950,
+      "feesLevel": "₹ ₹",
+      "startingFee": "₹95,000",
+      "startingFeeNum": 95000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "BCA",
+        "B.COM",
+        "MBA"
+      ],
+      "location": "Mangalore, Karnataka",
+      "approvals": [
+        "UGC-DEB",
+        "NAAC A+"
+      ],
+      "features": [
+        "Affordable quality courses",
+        "Modern LMS",
+        "Career fairs in southern tech hubs"
+      ],
+      "categoryTags": [
+        "best-budget"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_zb71h",
+      "name": "MIT Pune Online",
+      "slug": "mit-pune-online",
+      "shortName": "MIT-WPU Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 90,
+      "rating": 4.8,
+      "reviewCount": 2200,
+      "feesLevel": "₹ ₹ ₹",
+      "startingFee": "1.60 Lakh",
+      "startingFeeNum": 160000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "MBA",
+        "MCA",
+        "PGDM"
+      ],
+      "location": "Pune, Maharashtra",
+      "approvals": [
+        "UGC-DEB",
+        "AICTE"
+      ],
+      "features": [
+        "Pune industry corporate ties",
+        "Project management specializations",
+        "Executive certificates"
+      ],
+      "categoryTags": [
+        "best-budget",
+        "assured-programs"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_x81dt",
+      "name": "Paris School of Business",
+      "slug": "paris-school-of-business",
+      "shortName": "PSB Paris",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "AACSB / AMBA",
+      "nirfRank": null,
+      "rating": 4.9,
+      "reviewCount": 880,
+      "feesLevel": "₹ ₹ ₹ ₹",
+      "startingFee": "3.50 Lakh",
+      "startingFeeNum": 350000,
+      "duration": "2 Years",
+      "mode": "100% Online (International)",
+      "programs": [
+        "MBA",
+        "International Business"
+      ],
+      "location": "Paris, France",
+      "approvals": [
+        "AMBA",
+        "AACSB Accredited",
+        "EFMD member"
+      ],
+      "features": [
+        "Triple Crown European business degree",
+        "Dual alumni advantage",
+        "Global career mobility"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_ysmvz",
+      "name": "Golden Gate University",
+      "slug": "golden-gate-university",
+      "shortName": "GGU California",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "WASC (USA)",
+      "nirfRank": null,
+      "rating": 4.9,
+      "reviewCount": 1650,
+      "feesLevel": "₹ ₹ ₹ ₹",
+      "startingFee": "3.80 Lakh",
+      "startingFeeNum": 380000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "programs": [
+        "MBA",
+        "MS in Business Analytics",
+        "LLM"
+      ],
+      "location": "San Francisco, California, USA",
+      "approvals": [
+        "WASC Senior College and University Commission (WSCUC)"
+      ],
+      "features": [
+        "Silicon Valley curriculum",
+        "Alumni in Meta, Apple, Google",
+        "WES evaluated equivalent to US master"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_bemfv",
+      "name": "Alliance University",
+      "slug": "alliance-university",
+      "shortName": "Alliance Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "A+",
+      "nirfRank": 87,
+      "rating": 4.8,
+      "reviewCount": 1450,
+      "feesLevel": "₹ ₹ ₹ ₹",
+      "startingFee": "1.95 Lakh",
+      "startingFeeNum": 195000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "programs": [
+        "BBA",
+        "MBA",
+        "B.COM"
+      ],
+      "location": "Bangalore, Karnataka",
+      "approvals": [
+        "UGC-DEB",
+        "NAAC A+"
+      ],
+      "features": [
+        "South India Premier Management School",
+        "Incubation hub access",
+        "Live case study pedagogy"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "col_1794302846179_kf609",
+      "name": "Edgewood University",
+      "slug": "edgewood-university",
+      "shortName": "Edgewood Online",
+      "logo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "naacGrade": "HLC (USA)",
+      "nirfRank": null,
+      "rating": 4.8,
+      "reviewCount": 920,
+      "feesLevel": "₹ ₹ ₹ ₹",
+      "startingFee": "3.20 Lakh",
+      "startingFeeNum": 320000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "programs": [
+        "MBA",
+        "MS in Management"
+      ],
+      "location": "Madison, Wisconsin, USA",
+      "approvals": [
+        "Higher Learning Commission (HLC)"
+      ],
+      "features": [
+        "Direct US faculty webinars",
+        "Global business credential",
+        "Transcript provided directly from US"
+      ],
+      "categoryTags": [
+        "students-top-choice"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    }
+  ],
+  "programs": [
+    {
+      "_id": "prog_1794302846179_my9en",
+      "name": "BBA at Lovely Professional University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Lovely Professional University",
+      "collegeSlug": "lovely-professional-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 38,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_52v14",
+      "name": "BCA at Lovely Professional University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Lovely Professional University",
+      "collegeSlug": "lovely-professional-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 38,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_4o5iq",
+      "name": "B.COM at Lovely Professional University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Lovely Professional University",
+      "collegeSlug": "lovely-professional-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 38,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_6so3a",
+      "name": "BA at Lovely Professional University",
+      "degreeLevel": "Bachelors",
+      "stream": "BA",
+      "collegeName": "Lovely Professional University",
+      "collegeSlug": "lovely-professional-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 38,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_vtwez",
+      "name": "MBA at Lovely Professional University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Lovely Professional University",
+      "collegeSlug": "lovely-professional-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 38,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_dh24q",
+      "name": "MCA at Lovely Professional University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Lovely Professional University",
+      "collegeSlug": "lovely-professional-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 38,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_abzix",
+      "name": "BBA at Amity University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_60kq0",
+      "name": "BCA at Amity University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ilkfb",
+      "name": "B.COM at Amity University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ogr50",
+      "name": "BA at Amity University",
+      "degreeLevel": "Bachelors",
+      "stream": "BA",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_w1w7u",
+      "name": "MBA at Amity University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_p4pu1",
+      "name": "MCA at Amity University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_y0cdz",
+      "name": "M.Sc at Amity University",
+      "degreeLevel": "Masters",
+      "stream": "M.Sc",
+      "collegeName": "Amity University",
+      "collegeSlug": "amity-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.99 Lakh",
+      "feeNum": 199000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 35,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ret7c",
+      "name": "BBA at Parul University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Parul University",
+      "collegeSlug": "parul-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 52,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_j88q0",
+      "name": "BCA at Parul University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Parul University",
+      "collegeSlug": "parul-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 52,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_o9du8",
+      "name": "BA at Parul University",
+      "degreeLevel": "Bachelors",
+      "stream": "BA",
+      "collegeName": "Parul University",
+      "collegeSlug": "parul-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 52,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_q8mew",
+      "name": "MBA at Parul University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Parul University",
+      "collegeSlug": "parul-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 52,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_t5xg2",
+      "name": "MCA at Parul University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Parul University",
+      "collegeSlug": "parul-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 52,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_cpeyn",
+      "name": "BBA at Chandigarh University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Chandigarh University",
+      "collegeSlug": "chandigarh-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.85 Lakh",
+      "feeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 27,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_df2rv",
+      "name": "BCA at Chandigarh University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Chandigarh University",
+      "collegeSlug": "chandigarh-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.85 Lakh",
+      "feeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 27,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_55j60",
+      "name": "B.COM at Chandigarh University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Chandigarh University",
+      "collegeSlug": "chandigarh-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.85 Lakh",
+      "feeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 27,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_2n7ig",
+      "name": "BA at Chandigarh University",
+      "degreeLevel": "Bachelors",
+      "stream": "BA",
+      "collegeName": "Chandigarh University",
+      "collegeSlug": "chandigarh-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.85 Lakh",
+      "feeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 27,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_3f9nt",
+      "name": "MBA at Chandigarh University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Chandigarh University",
+      "collegeSlug": "chandigarh-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.85 Lakh",
+      "feeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 27,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_u196v",
+      "name": "MCA at Chandigarh University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Chandigarh University",
+      "collegeSlug": "chandigarh-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1562774053-701939374585?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1576495199011-eb94736d05d6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.85 Lakh",
+      "feeNum": 185000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 27,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_blnz1",
+      "name": "BBA at Bharathidasan University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Bharathidasan University",
+      "collegeSlug": "bharathidasan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,798",
+      "feeNum": 90798,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 41,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_5wzlo",
+      "name": "BA at Bharathidasan University",
+      "degreeLevel": "Bachelors",
+      "stream": "BA",
+      "collegeName": "Bharathidasan University",
+      "collegeSlug": "bharathidasan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,798",
+      "feeNum": 90798,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 41,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ut2ui",
+      "name": "B.COM at Bharathidasan University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Bharathidasan University",
+      "collegeSlug": "bharathidasan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,798",
+      "feeNum": 90798,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 41,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ixtwc",
+      "name": "MBA at Bharathidasan University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Bharathidasan University",
+      "collegeSlug": "bharathidasan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,798",
+      "feeNum": 90798,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 41,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_9a0an",
+      "name": "MA at Bharathidasan University",
+      "degreeLevel": "Masters",
+      "stream": "MA",
+      "collegeName": "Bharathidasan University",
+      "collegeSlug": "bharathidasan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,798",
+      "feeNum": 90798,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 41,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_v97vs",
+      "name": "BBA at Sharda University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Sharda University",
+      "collegeSlug": "sharda-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 86,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_5ontp",
+      "name": "BCA at Sharda University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Sharda University",
+      "collegeSlug": "sharda-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 86,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_7m572",
+      "name": "B.COM at Sharda University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Sharda University",
+      "collegeSlug": "sharda-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 86,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_vf5xe",
+      "name": "MBA at Sharda University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Sharda University",
+      "collegeSlug": "sharda-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 86,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ak6ng",
+      "name": "MCA at Sharda University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Sharda University",
+      "collegeSlug": "sharda-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.35 Lakh",
+      "feeNum": 135000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 86,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_e8ysl",
+      "name": "BBA at Dr. DY Patil Vidyapeeth",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Dr. DY Patil Vidyapeeth",
+      "collegeSlug": "dr-dy-patil-vidyapeeth",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1562774053-701939374585?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.45 Lakh",
+      "feeNum": 145000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 44,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_xoq40",
+      "name": "MBA at Dr. DY Patil Vidyapeeth",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Dr. DY Patil Vidyapeeth",
+      "collegeSlug": "dr-dy-patil-vidyapeeth",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1562774053-701939374585?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.45 Lakh",
+      "feeNum": 145000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 44,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_ps91h",
+      "name": "B.COM at Dr. DY Patil Vidyapeeth",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Dr. DY Patil Vidyapeeth",
+      "collegeSlug": "dr-dy-patil-vidyapeeth",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1562774053-701939374585?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.45 Lakh",
+      "feeNum": 145000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 44,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_lbziy",
+      "name": "BBA at Jain University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Jain University",
+      "collegeSlug": "jain-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 65,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_hg4at",
+      "name": "BCA at Jain University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Jain University",
+      "collegeSlug": "jain-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 65,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_zxkpo",
+      "name": "B.COM at Jain University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Jain University",
+      "collegeSlug": "jain-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 65,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_5ecw8",
+      "name": "MBA at Jain University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Jain University",
+      "collegeSlug": "jain-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 65,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_n9vdm",
+      "name": "MCA at Jain University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Jain University",
+      "collegeSlug": "jain-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 65,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_i4rwz",
+      "name": "BBA at O.P. Jindal Global University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "O.P. Jindal Global University",
+      "collegeSlug": "op-jindal-global-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=600&auto=format&fit=crop&q=80",
+      "fee": "2.25 Lakh",
+      "feeNum": 225000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 1,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_jj0dq",
+      "name": "MBA at O.P. Jindal Global University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "O.P. Jindal Global University",
+      "collegeSlug": "op-jindal-global-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=600&auto=format&fit=crop&q=80",
+      "fee": "2.25 Lakh",
+      "feeNum": 225000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 1,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_g0jog",
+      "name": "BA at O.P. Jindal Global University",
+      "degreeLevel": "Bachelors",
+      "stream": "BA",
+      "collegeName": "O.P. Jindal Global University",
+      "collegeSlug": "op-jindal-global-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541829070764-84a7d30dd3f3?w=600&auto=format&fit=crop&q=80",
+      "fee": "2.25 Lakh",
+      "feeNum": 225000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.9,
+      "recruiterRank": 1,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_bbedn",
+      "name": "BBA at UPES Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "UPES Online",
+      "collegeSlug": "upes-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 46,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_92ts6",
+      "name": "BCA at UPES Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "UPES Online",
+      "collegeSlug": "upes-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 46,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_1s4v6",
+      "name": "MBA at UPES Online",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "UPES Online",
+      "collegeSlug": "upes-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 46,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_7ljab",
+      "name": "MCA at UPES Online",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "UPES Online",
+      "collegeSlug": "upes-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1492538368677-f6e0afe31dcc?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.5 Lakh",
+      "feeNum": 150000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 46,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_tlxzi",
+      "name": "BBA at Shoolini University Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Shoolini University Online",
+      "collegeSlug": "shoolini-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,000",
+      "feeNum": 90000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 70,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_j54u7",
+      "name": "BCA at Shoolini University Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Shoolini University Online",
+      "collegeSlug": "shoolini-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,000",
+      "feeNum": 90000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 70,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_9s7w2",
+      "name": "B.COM at Shoolini University Online",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Shoolini University Online",
+      "collegeSlug": "shoolini-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,000",
+      "feeNum": 90000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 70,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_4emc0",
+      "name": "MBA at Shoolini University Online",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Shoolini University Online",
+      "collegeSlug": "shoolini-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,000",
+      "feeNum": 90000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 70,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846179_o6mxt",
+      "name": "MCA at Shoolini University Online",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Shoolini University Online",
+      "collegeSlug": "shoolini-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹90,000",
+      "feeNum": 90000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 70,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.179Z"
+    },
+    {
+      "_id": "prog_1794302846180_0snn0",
+      "name": "BBA at Vignan University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Vignan University",
+      "collegeSlug": "vignan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.08 Lakh",
+      "feeNum": 108000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 75,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_zn4t2",
+      "name": "BCA at Vignan University",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Vignan University",
+      "collegeSlug": "vignan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.08 Lakh",
+      "feeNum": 108000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 75,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_boj0t",
+      "name": "MBA at Vignan University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Vignan University",
+      "collegeSlug": "vignan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.08 Lakh",
+      "feeNum": 108000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 75,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_3bw57",
+      "name": "MCA at Vignan University",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "Vignan University",
+      "collegeSlug": "vignan-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.08 Lakh",
+      "feeNum": 108000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.7,
+      "recruiterRank": 75,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_q23w2",
+      "name": "BBA at Yenepoya University Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Yenepoya University Online",
+      "collegeSlug": "yenepoya-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹95,000",
+      "feeNum": 95000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 85,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_vwcn8",
+      "name": "BCA at Yenepoya University Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BCA",
+      "collegeName": "Yenepoya University Online",
+      "collegeSlug": "yenepoya-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹95,000",
+      "feeNum": 95000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 85,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_r3ysb",
+      "name": "B.COM at Yenepoya University Online",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Yenepoya University Online",
+      "collegeSlug": "yenepoya-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹95,000",
+      "feeNum": 95000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 85,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_0e52a",
+      "name": "MBA at Yenepoya University Online",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Yenepoya University Online",
+      "collegeSlug": "yenepoya-university-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&auto=format&fit=crop&q=80",
+      "fee": "₹95,000",
+      "feeNum": 95000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.6,
+      "recruiterRank": 85,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_jtbbx",
+      "name": "BBA at MIT Pune Online",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "MIT Pune Online",
+      "collegeSlug": "mit-pune-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.60 Lakh",
+      "feeNum": 160000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 90,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_472g4",
+      "name": "MBA at MIT Pune Online",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "MIT Pune Online",
+      "collegeSlug": "mit-pune-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.60 Lakh",
+      "feeNum": 160000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 90,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_ow10k",
+      "name": "MCA at MIT Pune Online",
+      "degreeLevel": "Masters",
+      "stream": "MCA",
+      "collegeName": "MIT Pune Online",
+      "collegeSlug": "mit-pune-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.60 Lakh",
+      "feeNum": 160000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 90,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_ao428",
+      "name": "PGDM at MIT Pune Online",
+      "degreeLevel": "Masters",
+      "stream": "PGDM",
+      "collegeName": "MIT Pune Online",
+      "collegeSlug": "mit-pune-online",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.60 Lakh",
+      "feeNum": 160000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 90,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_pgiqy",
+      "name": "MBA at Paris School of Business",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Paris School of Business",
+      "collegeSlug": "paris-school-of-business",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.50 Lakh",
+      "feeNum": 350000,
+      "duration": "2 Years",
+      "mode": "100% Online (International)",
+      "rating": 4.9,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_xtx5o",
+      "name": "International Business at Paris School of Business",
+      "degreeLevel": "Bachelors",
+      "stream": "International Business",
+      "collegeName": "Paris School of Business",
+      "collegeSlug": "paris-school-of-business",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.50 Lakh",
+      "feeNum": 350000,
+      "duration": "2 Years",
+      "mode": "100% Online (International)",
+      "rating": 4.9,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_ddvkz",
+      "name": "MBA at Golden Gate University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Golden Gate University",
+      "collegeSlug": "golden-gate-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.80 Lakh",
+      "feeNum": 380000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "rating": 4.9,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_3e1wc",
+      "name": "MS in Business Analytics at Golden Gate University",
+      "degreeLevel": "Bachelors",
+      "stream": "MS in Business Analytics",
+      "collegeName": "Golden Gate University",
+      "collegeSlug": "golden-gate-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.80 Lakh",
+      "feeNum": 380000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "rating": 4.9,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_plqqi",
+      "name": "LLM at Golden Gate University",
+      "degreeLevel": "Bachelors",
+      "stream": "LLM",
+      "collegeName": "Golden Gate University",
+      "collegeSlug": "golden-gate-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.80 Lakh",
+      "feeNum": 380000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "rating": 4.9,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_buw67",
+      "name": "BBA at Alliance University",
+      "degreeLevel": "Bachelors",
+      "stream": "BBA",
+      "collegeName": "Alliance University",
+      "collegeSlug": "alliance-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.95 Lakh",
+      "feeNum": 195000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 87,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_gftml",
+      "name": "MBA at Alliance University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Alliance University",
+      "collegeSlug": "alliance-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.95 Lakh",
+      "feeNum": 195000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 87,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_etevr",
+      "name": "B.COM at Alliance University",
+      "degreeLevel": "Bachelors",
+      "stream": "B.COM",
+      "collegeName": "Alliance University",
+      "collegeSlug": "alliance-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=600&auto=format&fit=crop&q=80",
+      "fee": "1.95 Lakh",
+      "feeNum": 195000,
+      "duration": "3 Years",
+      "mode": "100% Online",
+      "rating": 4.8,
+      "recruiterRank": 87,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_3oxs4",
+      "name": "MBA at Edgewood University",
+      "degreeLevel": "Masters",
+      "stream": "MBA",
+      "collegeName": "Edgewood University",
+      "collegeSlug": "edgewood-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.20 Lakh",
+      "feeNum": 320000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "rating": 4.8,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    },
+    {
+      "_id": "prog_1794302846180_ayvm9",
+      "name": "MS in Management at Edgewood University",
+      "degreeLevel": "Bachelors",
+      "stream": "MS in Management",
+      "collegeName": "Edgewood University",
+      "collegeSlug": "edgewood-university",
+      "collegeLogo": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?w=120&auto=format&fit=crop&q=80",
+      "collegeImage": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&auto=format&fit=crop&q=80",
+      "fee": "3.20 Lakh",
+      "feeNum": 320000,
+      "duration": "2 Years",
+      "mode": "100% Online (US Degree)",
+      "rating": 4.8,
+      "recruiterRank": 50,
+      "specializations": [
+        "General",
+        "Executive"
+      ],
+      "createdAt": "2026-11-10T09:27:26.180Z"
+    }
+  ],
+  "leads": []
+}
